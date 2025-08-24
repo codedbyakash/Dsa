@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codedbyakash/Dsa/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/codedbyakash/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
