@@ -25,6 +25,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
+| [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,12 +78,14 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codedbyakash/Dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +123,5 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/codedbyakash/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codedbyakash/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/codedbyakash/Dsa/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
