@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/codedbyakash/Dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/codedbyakash/Dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codedbyakash/Dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/codedbyakash/Dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codedbyakash/Dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/codedbyakash/Dsa/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/codedbyakash/Dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codedbyakash/Dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codedbyakash/Dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/codedbyakash/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
