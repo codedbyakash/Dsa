@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
        //calculating size of linkedlist 
+       if(head==NULL||head->next==NULL)return head;
        int n=0;
        ListNode* temp=head;
        ListNode* tail=NULL;
