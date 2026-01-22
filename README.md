@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/codedbyakash/Dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codedbyakash/Dsa/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/codedbyakash/Dsa/tree/master/0048-rotate-image) |
+| [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/codedbyakash/Dsa/tree/master/1603-running-sum-of-1d-array) |
 | [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
+| [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/codedbyakash/Dsa/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/codedbyakash/Dsa/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/codedbyakash/Dsa/tree/master/2411-spiral-matrix-iv) |
+| [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -150,4 +153,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codedbyakash/Dsa/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/codedbyakash/Dsa/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
